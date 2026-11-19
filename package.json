@@ -1,0 +1,16 @@
+{
+  "name": "youtube",
+  "version": "1.0.0",
+  "description": "This is youtube clone app but is mainly focous on backend",
+  "keywords": [
+    "youtube",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Sujal Sarawade",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
